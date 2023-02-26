@@ -5,7 +5,7 @@ Este é um projeto feito com JavaScript, CSS e HTML que utiliza um CRUD simples 
 
 Para utilizar o projeto, siga os seguintes passos:
 
-1.. Clone o repositório em sua máquina local: git clone https://github.com/seu-usuario/seu-repositorio.git
+1.. Clone o repositório em sua máquina local: git clone https://github.com/DeividXupon/Projeto-CRUD-simples-com-JavaScript-CSS-e-HTML
 
 2.. Abra o arquivo index.html em seu navegador.
 
